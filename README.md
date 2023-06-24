@@ -1,13 +1,4 @@
-# WeatherApp
-It's an app for checking temperatures in different cities in the world. Weather details like actual city temperature in celcius are obtained using an API from Open Weather Map website.
-# Built With
-HTML
+# Live Demo
+https://github.com/bnk3/WeatherApp/assets/137617392/f6dc2572-1fea-402d-96f0-67a70f51733d
 
-CSS
-
-Javascript
-
-Webpack
-
-Bootstrap 4
 
