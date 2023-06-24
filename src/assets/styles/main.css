@@ -1,0 +1,8 @@
+.weather-unit {
+    display: flex;
+    justify-content: space-between;
+}
+
+#w-string-two {
+    display: none !important;
+}
