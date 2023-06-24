@@ -16,8 +16,6 @@
 
 Open your terminal or text editor and use next command
 
-  git clone https://github.com/emmanuelkamala/weatherapp.git
-
   cd WeatherApp
 
   ### Run: 'npm install', to install all the dependencies
