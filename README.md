@@ -12,12 +12,6 @@
 - Javascript
 - Webpack
 - Bootstrap 4
-
-## Live Version
-
-[Live Link](https://emmanuelkamala.github.io/WeatherApp/)
-
-
 ## Getting Started
 
 Open your terminal or text editor and use next command
@@ -34,17 +28,6 @@ Open your terminal or text editor and use next command
 
 
 Happy coding! 
-
-
-
-## Author
-
-👤 **Author1**
-
-- Github: [emmanuelkamala](https://github.com/emmanuelkamala)
-- Twitter: [ejkamala](https://twitter.com/ejkamala)
-- Linkedin: [emmanuelkamala](https://linkedin.com/in/emmanuelkamala)
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
